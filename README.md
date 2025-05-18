@@ -1,4 +1,3 @@
-![Masthead](https://github.com/madhusha3/madhusha3/blob/main/Downpic.cc-2435055163.jpg?raw=true) 
 <h1 align="center">Hi 👋, I'm Madhusudan N</h1>
 <h3 align="center">A data-driven storyteller passionate about turning raw data into actionable insights.</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhc3cyeGlzcm8ydDNnaWo2bng5bXR4ZHJ5eWE2dHNpMW9idXFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Funny Data GIF" width="400">
