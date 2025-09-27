@@ -5,10 +5,6 @@
   <img src="https://github.com/user-attachments/assets/fa0c0f36-1be1-4d5e-aaf6-d2770587afbb" alt="Madhusudan N Data Analyst Profile" width="400">
 </p>
 
-<p align="center">
-  ![madhu](https://github.com/user-attachments/assets/fa0c0f36-1be1-4d5e-aaf6-d2770587afbb)
-</p>
-
 ---
 
 I've worked extensively with:
