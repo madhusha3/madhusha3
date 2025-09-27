@@ -84,7 +84,8 @@ I'm passionate about turning raw data into compelling stories that drive busines
 
 ## 📊 Experience Highlights
 
-- **3+ years** in data analysis and business intelligence
+- **2.4+ years** in Quality Analyst
+- **6 month** in Data Analyst
 - **100%** accuracy in financial compliance reporting
 - **20-40%** efficiency improvements through automation
 - **$10-15M** in transaction data validation experience
@@ -107,11 +108,6 @@ I'm actively seeking new opportunities in data analytics and always open to coll
 - **Portfolio:** [Maven Analytics Profile](https://mavenanalytics.io/profile/68415350-90a1-7062-144d-ce365ffc4b9c)
 - **Email:** [iammadhusudan.n@gmail.com](mailto:iammadhusudan.n@gmail.com)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/madhusudann5397)
-
----
-
-## ⚡ Fun Fact
-I enjoy turning complex datasets into engaging stories — and I never say no to a good data visualization challenge!
 
 ---
 
