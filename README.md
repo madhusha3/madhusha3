@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst with 6 months of experience. I specialize in transforming complex datasets into actionable business insights.</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhc3cyeGlzcm8ydDNnaWo2bng5bXR4ZHJ5eWE2dHNpMW9idXFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Data Analysis GIF" width="400">
+  ![madhu](https://github.com/user-attachments/assets/fa0c0f36-1be1-4d5e-aaf6-d2770587afbb)
 </p>
 
 ---
