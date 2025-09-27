@@ -1,23 +1,113 @@
-<h1 align="center">Hi 👋, I'm Madhusudan N</h1>
+<h1 align="center">Hello! 👋, I'm Madhusudan N</h1>
 <h3 align="center">A data-driven storyteller passionate about turning raw data into actionable insights.</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhc3cyeGlzcm8ydDNnaWo2bng5bXR4ZHJ5eWE2dHNpMW9idXFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Funny Data GIF" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusha3&label=Profile%20views&color=0e75b6&style=flat" alt="madhusha3" /> </p>
 
-- What skills do I have? **Power BI, Excel, SQL, Python, DAX, data cleaning, dashboard building, reporting, communication, Jira, Agile, data storytelling, basic statistics, and problem-solving.**
 
-- 👯 I’m looking to collaborate on **real-world data analytics projects, especially in healthcare, finance, or social impact domains.**
+I've worked extensively with:
 
-- 🤝 I’m looking for help with **building interactive dashboards and optimizing SQL queries for large datasets.**
+SQL for complex data querying and analysis
+Python (Pandas, NumPy) for data manipulation and pipeline development
+Power BI for interactive dashboards and data visualization
+Excel for financial reporting and data validation
+Java/Selenium for automation and testing
 
-- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/68415350-90a1-7062-144d-ce365ffc4b9c](https://mavenanalytics.io/profile/68415350-90a1-7062-144d-ce365ffc4b9c)
+I'm passionate about turning raw data into compelling stories that drive business decisions and operational excellence.
 
-- 💬 Ask me about **data visualization, Excel tricks, SQL, Power BI, and how to present data in simple, effective ways.**
+🛠️ Skills & Tools
+SQL
 
-- 📫 How to reach me **iammadhusudan.n@gmail.com**
+Complex Joins (Inner, Left, Right, Full)
+Window Functions & CTEs
+Data Mining & Analysis
+Query Optimization
+Database Management (PostgreSQL, MySQL)
 
-- ⚡ Fun fact **I enjoy turning boring spreadsheets into engaging stories — and I never say no to a good data meme.**
+Python
+
+Pandas & NumPy for data manipulation
+Data Pipeline Development
+ETL Processes with SQLAlchemy
+File Handling (CSV, Excel, JSON)
+Data Cleaning & Transformation
+
+Power BI
+
+Interactive Dashboard Creation
+Data Modeling & Transformation
+DAX Functions
+Business Intelligence Reporting
+Performance Optimization
+Real-time Data Visualization
+
+Excel
+
+Advanced Formulas & Functions
+Pivot Tables & Charts
+Data Validation & Analysis
+Financial Reporting
+VBA Automation
+
+Professional Skills
+
+Financial Data Analysis ($10-15M transaction validation)
+Process Optimization (20-40% efficiency improvements)
+Cross-functional Collaboration
+Regulatory Compliance Reporting
+Project Management (Agile/JIRA)
+
+Tools & Platforms
+
+Databases: PostgreSQL, MySQL, Oracle ADF
+Visualization: Power BI, Excel
+Development: Python, Java, Selenium
+Project Management: JIRA, Agile methodologies
+Version Control: Git
+
+
+🚀 Featured Projects
+Walmart Sales Data Analysis: SQL and Python Pipeline
+
+Analyzed 10,000+ sales records using SQL and Python
+Built end-to-end data pipeline with PostgreSQL integration
+Delivered actionable insights for retail optimization
+
+Power BI Dashboards
+
+Blinkit Sales Dashboard: Regional performance analysis across multiple tiers
+Coffee Sales Dashboard: Customer behavior and peak sales optimization
+
+Banking & Financial Analytics
+
+Validated $10-15M in financial transactions with 100% accuracy
+Automated reporting processes improving efficiency by 20%
+
+
+📊 Experience Highlights
+
+3+ years in data analysis and business intelligence
+100% accuracy in financial compliance reporting
+20-40% efficiency improvements through automation
+$10-15M in transaction data validation experience
+
+
+🌟 What I'm Currently Working On
+
+Advanced SQL optimization techniques
+Machine Learning integration with business analytics
+Cloud-based data pipeline development
+Real-time dashboard optimization
+
+
+📬 Let's Connect!
+I'm actively seeking new opportunities in data analytics and always open to collaborating on interesting projects!
+Portfolio: Maven Analytics Profile
+Email: iammadhusudan.n@gmail.com
+LinkedIn: Connect with me
+
+⚡ Fun Fact: I enjoy turning complex datasets into engaging stories — and I never say no to a good data visualization challenge!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
